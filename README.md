@@ -1,7 +1,9 @@
 
 # Interm
 
-I was just trying to see how cursed of a source file I could make for this project, and I managed to get it down to 21 lines for the whole thing. I could go further of course, but I like how it looks currently.
+I was bored and wanted to make something really cursed yet functional. Its a really comfy filebrowser in your Terminal. Would love to hear feedback or criticism
+
+(I thought it was funny to make it as small as possible, there is a second human readable version)
 ## Running
 
 To use, copy and paste the following script into your terminal.
